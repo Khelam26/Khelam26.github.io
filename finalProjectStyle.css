@@ -1,0 +1,48 @@
+h1{
+	color:white;
+	background: #B3B3C3;
+	font-size: 150%;
+}
+
+header{
+	background: aqua;
+	text-align: center;
+	padding: 20px;
+}
+
+nav{
+	color:#FFFFFF;
+	font-variant: small-caps;
+	font-size: 175;
+	font-family: "Comic San MS", Arial;
+}
+h2{
+	color:black;
+	background: aqua;
+}
+
+details{
+	font-style: italic;
+}
+summary{
+	font-style: normal;
+}
+
+footer{
+	clear: both;
+	background: #B3B3C3;
+}
+img {
+	width: 10%;
+	height: 5%;
+}
+body{
+	margin: 4%;
+	background-color: #B3B3B3;
+}
+section{
+	display: inline-block;
+	width: 30%;
+	margin-right: 3%; 
+	float: left;
+}
